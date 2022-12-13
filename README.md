@@ -2,6 +2,7 @@
 
 - Retrofit/Okhttp
 - Coroutines
+- GSON
   
 ## API Used
 
