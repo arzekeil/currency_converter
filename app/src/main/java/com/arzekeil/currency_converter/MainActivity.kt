@@ -15,7 +15,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 
-private const val API_KEY = "0f55a319920f7f522e357c2c"
+private const val API_KEY = ""
 private const val BASE_URL = "https://v6.exchangerate-api.com"
 private const val INITIAL_AMOUNT = 0.00
 
